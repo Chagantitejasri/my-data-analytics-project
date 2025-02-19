@@ -23,6 +23,11 @@ This project aims to detect fraudulent credit card transactions using **Machine 
 ## 📂 Project Structure  
 📁 Credit_Card_Fraud_Detection
 ├── 📜 data.csv (Dataset)
-├── 📜 fraud_detection.ipynb (Jupyter Notebook)
-├── 📜 README.md (This file)
-├── 📜 requirements.txt (Dependencies)
+├── datasets/      # Raw and processed datasets
+├── notebooks/     # Jupyter notebooks
+├── scripts/       # Python scripts
+├── reports/       # Data visualizations & reports
+├── README.md      # Project documentation
+pip install -r requirements.txt
+
+
